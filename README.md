@@ -53,8 +53,8 @@ Expected Output: 5
 
 4. Write a JavaScript function that generates a string id (specified length) of random characters.
 
-Sample Data and Output
-Expected Output: RCv1SBUC or PmJkc2Y2 or nIi5L0FA
+   Sample Data and Output
+   Expected Output: RCv1SBUC or PmJkc2Y2 or nIi5L0FA
 
 5. Write a JavaScript function that accepts a list of country names as input and returns the longest country name as output.
 
