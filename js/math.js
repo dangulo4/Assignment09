@@ -11,7 +11,7 @@ let decNbr2 = prompt('Enter a decimal');
 decNbr2 = Math.floor(decNbr2);
 console.log(decNbr2);
 //STEP 4
-let nbrs = prompt('Enter five number (ex: 1,2,3,4,5):');
+let nbrs = prompt('Enter five numbers (ex: 1,2,3,4,5):');
 nbrs = nbrs.split(',');
 nbrs = nbrs.sort();
 console.log(`The larget is: ${nbrs[0]}, and the smallest is: ${nbrs[nbrs.length - 1]}`);
